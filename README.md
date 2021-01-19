@@ -296,7 +296,7 @@ Basically, rentals
 
 
 
-# Class 9 Contracts in Practice (Jan 12)
+# Class 9 Contracts in Practice (1/12)
 
 Page 33
 
@@ -410,3 +410,93 @@ Page 34
 * Power of Attorney
   * Written document giving the *right to act as a proxy*(they can do things just like they are you) for another 
   * Creates attorney-in-fact
+
+
+
+# Class 4 Property Right Limitations 1
+
+Page. 18
+
+## Government Limitations
+
+#### P.E.T.E
+
+* Police power
+  * the right of government to regulate private activity if it's in public interest to do so.
+  * Zoning = governs land use
+    * e.g. use(residential, commercial, etc), height, setbacks, visual appearance, lot sizes, parking, open space, density, FARs, etc
+    * 3 ways around zoning: 
+      1. **on-conforming use**: A legal use that existed prior to the enactment of current zoning ordinances
+      2. **variance**: Special permission to do something otherwise forbidden by the zoning rules
+      3. **conditional use permits**: Think of this as a limited variance. Conditional use permits (CUPs)
+         allow a commercial or residential use
+  * Building codes = govern how you build
+    * Building codes define basic requirements for construction without necessarily prescribing implementation
+    * Certificate of Occupancy (C/O) = proves that the property was built up to code and is safe for occupancy
+
+* Eminent Domain (土地征用权)
+
+  * Right of government to force the sale of privately owned property 
+
+* Taxes
+
+  **municipal property taxes**
+
+  * Taxes assessed against your property by the town or city (municipality)
+
+  * Pay for most of the things the town or city does
+
+  * Taxes run with land
+
+    * Towns can foreclose for unpaid taxes
+    * Superpriority lien
+    * Equitable right of redemption= 1 year from the date of sale
+
+  * Taxes are charged on the assessed value of your property
+
+  * Taxes are charged in mills ($1 per $1,000)
+
+  * Paid quarterly or semi-annually on a fiscal year running from July 1 to June 30th (8/1, 11/1, 2/1, 5/1 in MA)
+
+    Special Assessments = charges for improvements made to your property by the town 
+
+    > e.g. sewer hookup, or street lighting ("betterments")
+
+  * Special Districts = tax districts that charge adjacent homeowners for services they receive
+
+  **Math: Property taxes**
+
+  >What is the annual property tax on a $100,000 home that is assessed at 40% of its value in a town with a millage rate of $20 per $1000?
+
+  $100,000 * 0.4 = $40,000 assessed value
+
+  $40,000 / $1,000 = 40 payments * $20 = $800 tax bill
+
+  > What is annual property tax on a $250,000 home assessed at 50% with a mileage rate of $15 per $1,000
+
+  $250,000 * 0.5 = $125,000 assessed value
+
+  $125,000 / $1,000 = 125 payments * $15 = $1,875
+
+* Escheat (充公)
+
+  * reversionary interest in all privately owned property held by the state
+
+## Private Limitations
+
+Private limitations or restrictions (also known as CC&Rs) are contractual limitations on ownership created by deed or separate agreement. There are two basic kinds:
+
+1. Covenants = contractual limitations in a subdivision
+   * Must be uniformly applied to all the owners
+2. Deed restrictions = contractual limitations written into your deed (receipt)
+   *  Violation of a restriction can result in a lose of title
+
+## Conflicts Between Public and Private Limitations
+
+If there is ever a conflict between private restrictions and public zoning, the more restrictive rule wins. So, if a private restriction limits homeowners to 2.5 story buildings, but public zoning allows up to 3 stories, the homeowner would
+be limited to 2.5 stories. 
+
+
+
+## Environmental Limitations (p.20)
+
