@@ -591,3 +591,45 @@ The intrusion of an improvement onto a neighboring property (e.g. a misaligned f
 * Judgments = final decision by a court, can result a sheriff's sale
 * Attachments = legal seizure of property to satisfy a possible judgment 
   * Lis Pendens = recorded notice of the attachment
+
+
+
+
+
+# Class 6 Contracts and Contracts in Practice
+
+p.31 1/25/2021
+
+## Contracts
+
+What is contracts?
+
+* legally binding agreements between two or more parties
+* Performance: doing what you promised
+
+## Essentials of contracts and Statues
+
+![image-20210124235807054](README.assets/image-20210124235807054.png)
+
+Valid: has all 4 essentials legally binding
+
+Voidable: missing reality of consent & competence
+
+Void: missing #1 #2 #3 not legally binding
+
+#### 1 Offer & Acceptance (meeting of the minds)
+
+- Shown by signatures or action electronic signatures are binding
+
+- Real Estate contracts must be in writing per Statute of Frauds 
+
+#### 2 Consideration
+
+#### 3 Legal Object
+
+#### 4 Reality of Consent and Competence
+
+
+
+
+
