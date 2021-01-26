@@ -95,7 +95,7 @@ An example Lot and Block survey might read:
 
 #### Government Rectangular Survey System
 
-![image-20210125181919174](Class 11 Transfer of Property Part 1.assets/image-20210125181919174.png)
+![image-20210125181919174](image/image-20210125181919174.png)
 
 - Squares created by the intersecting of tiers and range lines = townships
 - Townships are 6 miles x 6 miles
@@ -108,14 +108,14 @@ An example Lot and Block survey might read:
   * Northeastern Corner always #1
   * 16th section = school section
 
-  ![townerships](Class 11 Transfer of Property Part 1.assets/image-20210125182425733.png)
+  ![townerships](image/image-20210125182425733.png)
 
 * Section are divided into
   1. Halves of 320 acres
   2. Quarters of 160 acres
   3. Further subdivided into quarters and halves
 
-![image-20210125183040309](Class 11 Transfer of Property Part 1.assets/image-20210125183040309.png)
+![image-20210125183040309](image/image-20210125183040309.png)
 
 * Sizes for each area in a Government Rectangular Survey 
   * Quadrangle/Check: 24 miles by 24 miles, 576 square miles, or 368,640 acres

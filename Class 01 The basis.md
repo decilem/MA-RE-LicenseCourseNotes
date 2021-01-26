@@ -19,7 +19,6 @@
    * principal: person who hiring 
 2. Broker (Special Agent)
 3. Salesperson (sub agent)
-   ![](C:/Users/c1oud/Documents/GitHub/ma-real-estate-test-notes/RE CLASS/bear_sketch@2x.png)
 
 ### Compensation
 
