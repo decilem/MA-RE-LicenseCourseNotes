@@ -115,7 +115,7 @@ An example Lot and Block survey might read:
   2. Quarters of 160 acres
   3. Further subdivided into quarters and halves
 
-![image-20210125183040309](Class 11 Transfer of Property Part 1.assets/image-20210125183040309.png)
+![image-20210125183040309](/Class 11 Transfer of Property Part 1.assets/image-20210125183040309.png)
 
 * Sizes for each area in a Government Rectangular Survey 
   * Quadrangle/Check: 24 miles by 24 miles, 576 square miles, or 368,640 acres
