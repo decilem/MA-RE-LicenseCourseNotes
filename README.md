@@ -19,7 +19,7 @@ The notes are from the "40 hours of real estate education". All the classes are 
 
 ## Index
 
-1. [The Basics](/Class 01 The basis.md)
+1. [The Basics](https://github.com/decilem/MA-RE-LicenseCourseNotes/blob/main/Class%2001%20The%20basis.md)
 2.  Property Rights
 3.  Interests in Real Estate
 4.  Limitations on Property Rights Part 1
