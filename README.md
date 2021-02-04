@@ -20,10 +20,10 @@ The notes are from the "40 hours of real estate education". All the classes are 
 ## Index
 
 1. [The Basics](https://github.com/decilem/MA-RE-LicenseCourseNotes/blob/main/Class%2001%20The%20basis.md)
-2.  Property Rights
-3.  Interests in Real Estate
-4.  Limitations on Property Rights Part 1
-5.  Limitations on Property Rights Part 2
+2.  [Property Rights](https://github.com/decilem/MA-RE-LicenseCourseNotes/blob/main/Class%2002%20Property%20Rights.md)
+3.  [Interests in Real Estate](https://github.com/decilem/MA-RE-LicenseCourseNotes/blob/main/Class%2003%20Interests%20in%20Real%20Estate.md)
+4.  [Limitations on Property Rights Part 1](https://github.com/decilem/MA-RE-LicenseCourseNotes/blob/main/Class%2004%20Property%20Right%20Limitations%201%262.md)
+5.  Limitations on Property Rights Part 2 
 6.  Transfer of Property Part 1
 7.  Transfer of Property Part 2
 8.  Contracts
