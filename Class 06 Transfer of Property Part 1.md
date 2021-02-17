@@ -1,4 +1,4 @@
-# Class 11 Transfer of Property Part 1
+# Class 6 Transfer of Property Part 1
 
 Study guide p.49
 

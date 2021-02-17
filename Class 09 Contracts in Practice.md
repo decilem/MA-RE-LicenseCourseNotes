@@ -23,11 +23,13 @@ About employment
 * Always **negotiable**
 * Include: What property the broker is selling, what commission they will be paid, the broker's authority and deadline for the sale
 
-#### 2. Entry Only Listing
+#### 2. Entry Only Listing ("Data Entry Only")
 
 * Seller pays a flat fee to put the property on MLS
 * Broker offers Limited services to the seller
 * Typically, Seller shows their own home and negotiates their own
+
+![image-20210204000515031](image/image-20210204000515031.png)
 
 #### 3. Open Listing
 
@@ -112,3 +114,8 @@ Page 34
 * Power of Attorney
   * Written document giving the *right to act as a proxy*(they can do things just like they are you) for another 
   * Creates attorney-in-fact
+
+
+
+
+

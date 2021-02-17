@@ -1,4 +1,4 @@
-# Class 08-09 Contracts and Contracts in Practice
+# Class 08 Contracts
 
 p.31 1/25/2021
 
@@ -89,6 +89,26 @@ can't be enforced if the court deems it to be unfair or impossible
 * When there's a breach (violation) of contract, here's what can happen:
   * Rescission -cancellation of contract
   * Specific performance - court order forcing party in violation to comply w/ terms type of injunctive relief (court order act)
-  * Damages -$$
+  * Damages -$$monetary compensation for harm suffered as a result of breach
   * Liquidated Damages -$$pre agrees upon amount of money in the  event of breach
     * Forfeiture - loss of deposit that was made during creation of contract
+
+#### Common Clauses in Contracts
+
+* Ironclad Merger Clauses (Integration Clause, Merger Clause, Entire Agreement Clause)
+  * Any other agreement outside the written contract won't have any effect
+* Severability Clause
+  * Any part of the contract that is illegal will be voided, but the rest will remain in effect
+  * Severs the voidable part
+* Contingency Clause
+  * Makes the contract contingent on something happening (e.g. the buyer receiving financing)
+    * If it does not happen, the contract is typically voided
+
+## Quiz:
+
+##### The Doctrine of Privity has to do with:
+
+C. The right to sue under a contract
+
+Explanation: The doctrine of privity has to do with who may be given rights and obligations under a contract (only those who are parties to the contract), and who therefore may be sued.
+
