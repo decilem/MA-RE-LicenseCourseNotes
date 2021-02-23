@@ -16,7 +16,7 @@ page.43
 
   * Written conveyance of possession and use of real estate for some specific period of time
 
-  * Privity of Estate: legal relationship between two parties interested in the same property
+  * **Privity of Estate**: legal relationship between two parties interested in the same property
 
   * Subject to the Essentials of contract
 
@@ -106,4 +106,69 @@ Covenant of Quiet Enjoyment
 * Lessor doesn't lease to others
 * Lessor doesn't threaten expulsion
 * Lessor doesn't trespass
-* Service promised in the lease are provided.
+* Service promised in the lease are provided. 
+
+## MA Landlord Regulations
+
+* Lessor can only collect:
+  * FMR 1st month's rent
+  * LMR
+  * Security Deposit of Max of 1 month's rent (escrow account)
+  * Reasonable lock and key fee
+* If a security deposit is collected, lease must include:
+  * Statement of Condition Form (tenants returns with 15 days of the lease start)
+  * Security Deposit Receipt (form)
+  * Notice of where security deposit is being held (form)
+* Lessor must pay lessee 5% interest or current bank rates on security deposit and last mouth's rent each year
+  * Interest must be paid within 30 days of annual tenancy each year
+
+## MA Landlord Regulations
+
+* Lessor must provide housing that is fit and suitable for occupancy per sanitary codes
+  * Inspected prior to occupancy
+  * De-lead, < 6 years
+  * Pay for head/hot water/water unless lease requires lessee to pay
+  * Provide Kitchen with
+
+## Property Management
+
+* Property Managers are Special Agents or General Agents
+* Act in best interest of the property owner
+* Compensation typically based on percentage of gross effective rental income
+
+## Types of Leases
+
+* Gross Leases (almost all residential leases) 
+  * Lessee pay fixed rent, lessor pays operating expenses of the  building
+  * Lessor receives gross income
+* Sublease/Sandwich Lease
+  * Lease between original tenant and subletter
+* Modified Gross Lease
+  * Tenant pays fixed rent year one
+  * If lessor expense increase, lessee will pay a percentage of this increase
+* Net Lease
+  * Tenant pays rent and some or all of the **property's operating expenses**( 
+    * 1. Maintenance 2. Property taxes 3. Property insurance
+    * Single Net, Double Net, Triple Net
+  * Lessor receives net income
+
+* Percentage Lease (department store)
+  * Most of the rent is paid as a percentage of the lessee's gross receipts or sales
+  * Helps align landlord and anchor tenant's interest
+  * Most often seen with *department stores* (tjmaxx, Xmas tree shop)
+* Ground Lease (McDonalds)
+  * Lessee rents the land and may build whatever they want on it
+  * When lease expires, any improvement are owned by the lessor
+  * Typically 99 years
+  * Most commonly use by fast food chains (McDonalds)
+* Graduated Lease
+  * Rent increases on some pre-agreed upon schedule
+  * Escalator clause increase or decreases rent
+  * Best for **entrepreneurs** or those who need lower expenses at the beginning of their lease term
+* Index Lease
+  * tent is tied to some index (consumer price index)
+* Reappraisal lease
+  * rent based on appraiser's opinion of rent
+  * Common when doubt about future main
+* Sale-leaselack
+
