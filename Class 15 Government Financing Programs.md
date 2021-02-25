@@ -9,7 +9,12 @@ Study Guide p.74
 * USDA
 * PMI
 
-## FHA (Federal Housing Administration)
+## Government Financing Program
+
+* Government has a few programs in place to assist homeowners with purchasing a home
+* Encourage banks to make attainable loans for homebuyers
+
+## FHA (Federal Housing Administration 1934)
 
 #### National Housing Act of 1934
 
