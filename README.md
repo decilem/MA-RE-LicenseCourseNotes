@@ -147,14 +147,18 @@ Right to Disposition (rent, sell, will)
 2.  Air rights  (US v Causby)
     * tallest improvement 80ft ~ 500 ft.   (FAA navigable air space)
     * can be leased out
-3.  mineral rights (sub surface rights) 
-    1. Solid mineral (Gold/silver/iron)
-    2. liquid mineral (oil, gas) free flowing
+3. mineral rights (sub surface rights) 
+   1. Solid mineral (Gold/silver/iron)
+
+   2. liquid mineral (oil, gas) free flowing
+
+   3. Implied easement 
+
+      > An implied easement allows an owner who purchase mineral rights separately from the land itself to harvest those minerals automatically.
 
 Rules of Capture
 	1. Doctrine of Capture: you capture first, you get it first
 	2. Utilization Pooling: share it, pool it
-Implied easement 
 
 4. Riparians Rights (river)
 
@@ -261,15 +265,15 @@ A freehold interest (ownership) held by only one person. Its root is "severed"; 
 
 #### 2. Joint Tenancy
 
-Must：
+**Must：**
 
-	* *unity of time* Acquire ownership at same time
-	* *unity of title* In the same deed
-	* *unity of possession* All have equal right of possession
-	* *unity of interest* All have equal interests 
-	* Specify joint  ownership
+* *unity of time* Acquire ownership at same time
+* *unity of title* In the same deed
+* *unity of possession* All have equal right of possession
+* *unity of interest* All have equal interests 
+* Specify joint  ownership
 
-Survivorship
+**Survivorship**
 
 * Last person standing
 * Not inheritable
@@ -403,7 +407,7 @@ Page. 18
 
 *Math: Property taxes*
 
->What is the annual property tax on a $100,000 home that is assessed at 40% of its value in a town with a millage rate of $20 per $1000?
+>What is the annual property tax on a $100,000 home that is assessed at 40% of its value in a town with a millage rate of $20 per 1000?
 
 $100,000 * 0.4 = $40,000 assessed value
 
@@ -1271,7 +1275,7 @@ CMA – Comparative (or competitive) Market Analysis; used to determine listing 
   - CLUE： Comprehensive loss underwriting exchange
 - Insurable Value – The value of a property for insurance. The Comprehensive Loss Underwriting Exchange (CLUE) records past consumer claims that are used in homeowner's insurance underwriting.
 - Assessed Value – The tax value of a property.
-- Liquidation Value – The foreclosure(抵押品赎回) value of a property.
+- Liquidation Value – The foreclosure value of a property.
 
 ### The Principle of Value
 
@@ -1727,6 +1731,7 @@ Answer: $373,917.57-543.92=373,373.65$
 
   * Used for development of subdivisions where there are multiple lots
   * includes Partial Release Clause
+    *  A partial release clause would allow the developer to pay off part of the mortgage whenever an individual home was sold.
 
 * Non-Recourse Loan
 
@@ -1920,6 +1925,10 @@ Study Guide p.74
   PMI can be shopped by the lender. If credit is better, PMI is lower.
 
 * *Remember: PMI is insurance provided by a private insurance company, whereas MI is insurance provided by the government*
+
+##### Under the Dodd Frank Act's new TRID rules, the HUD-1 was replaced with:  The Closing Statement
+
+
 
 
 
