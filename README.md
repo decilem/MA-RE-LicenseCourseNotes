@@ -15,7 +15,7 @@ The notes are from the "40 hours of real estate education". All the classes are 
 > * **40 hours of real estate education**
 > * Successful completion of licensing exams
 
-
+[The Basics](#class-01-the-basis)
 
 ## Index
 
@@ -463,7 +463,7 @@ Requires property owners in "high risk flood zones" (think: waterfront property)
 
 ##### Massachusetts Wetlands Protection Act 
 
-The act requires a buffer zone (an area where you cannot build anything) of 100 feet from any wetlands. The DEP or local conservation commission may permit certain minor changes after 50 feet, and may also permit certain changes within the buffer zone, subject to DEP regulations, though typically no changes may be made to the wetland itself.
+The act requires a buffer zone (an area where you cannot build anything) of 100 feet from any wetlands. The DEP or local conservation commission may permit certain minor changes after **50 feet**, and may also permit certain changes within the buffer zone, subject to DEP regulations, though typically no changes may be made to the wetland itself.
 
 [MA Wetland and Wetland Change Areas Map](http://maps.massgis.state.ma.us/images/dep/omv/wetviewer.htm)
 
@@ -555,6 +555,12 @@ Study guide p.49
 ## Title
 
 - Title = ownership  (the concept of ownership)
+
+  > **Alienation** – loss of ownership; 
+  >
+  > * can be voluntary, such as in a real estate sale 
+  > * or involuntary, such as in a foreclosure
+
 - A property owner can lose title
   - Involuntary Alienation
     - Forced loss of ownership (Foreclosure or Tax sale)
@@ -877,7 +883,7 @@ What is contracts?
 
 can't be enforced if the court deems it to be unfair or impossible
 
-##### Doctrine of Laches
+##### Doctrine of the Laches
 
 * lose your rights if you fail to assert them within a reasonable time frame
 * can be used to render a contact unenforceable
@@ -910,8 +916,8 @@ can't be enforced if the court deems it to be unfair or impossible
 * What is a breach? 
   * broken term
 * When there's a breach (violation) of contract, here's what can happen:
-  * Rescission -cancellation of contract
-  * Specific performance - court order forcing party in violation to comply w/ terms type of injunctive relief (court order act)
+  * **Rescission** -cancellation of contract
+  * **Specific performance** - court order forcing party in violation to comply w/ terms type of injunctive relief (court order act)
   * Damages -$$monetary compensation for harm suffered as a result of breach
   * Liquidated Damages -$$pre agrees upon amount of money in the  event of breach
     * Forfeiture - loss of deposit that was made during creation of contract
@@ -1352,10 +1358,14 @@ Loss of value can occur due to any of the following:
 ## Capitalization Rate
 
 * Another way to value investment property
-* Capitalization Rate/Cap Rate = the percentage of the property value that an investor expects to receive as NOI every year
+* Capitalization Rate(Cap Rate) = the percentage of the property value that an investor expects to receive as NOI every year
   * More reliable than GRM
+  
   * Investors usually have a goal cap rate
-  * Formula: NOI/Sales price
+  
+  * Formula: $Cap Rate=NOI/Sales price$
+  
+    > **Net income** – also known as net operating income (NOI), it is the effective gross income minus operating expenses
 
 #### Capitalization Rate Math
 
@@ -1531,6 +1541,10 @@ So who holds title?
 * Power of Sale Clause: allows lender to take the property and sell it if the borrower defaults on the terms of the loan
 * Defeasance Clause: automatically relives the collateral of the bank claim when the loan is paid bank
 * Due on Sale Clause: entire payment
+
+> **Due on sale clause** – also known as alienation or assumption clause; permits lender to accelerate maturity date of the loan in the
+> event of a title transfer; prevents transfer of mortgage to a third party
+
 * Garn-St. Germain Act: Due on sale clause can't triggered on death, devising property, leasing, marriage, divorce or transfer to a family trust
 * Subordination Clause: 
 
