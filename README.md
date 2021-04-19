@@ -540,7 +540,9 @@ The intrusion of an improvement onto a neighboring property (e.g. a misaligned f
 
 
 
-# Class 6 Transfer of Property Part 1
+# Class 6 
+
+# Transfer of Property Part 1
 
 Study guide p.49
 
@@ -721,7 +723,9 @@ An example Lot and Block survey might read:
 
 
 
-# Class 07 Transfer of Property Part 2
+# Class 07 
+
+# Transfer of Property Part 2
 
 study guide p.50
 
@@ -831,7 +835,9 @@ A property sold for $505,100, how much stamps?
 
 
 
-# Class 08 Contracts
+# Class 08 
+
+# Contracts
 
 p.31 1/25/2021
 
@@ -945,7 +951,9 @@ C. The right to sue under a contract
 
 Explanation: The doctrine of privity has to do with who may be given rights and obligations under a contract (only those who are parties to the contract), and who therefore may be sued.
 
-# Class 09 Contracts in Practice 
+# Class 09 
+
+# Contracts in Practice 
 
 Page 33 (1/12/2021)
 
@@ -1064,7 +1072,9 @@ Page 34
 
 
 
-# Class 10 Leases 
+# Class 10 
+
+# Leases 
 
 page.43 
 
@@ -1240,6 +1250,8 @@ Covenant of Quiet Enjoyment
 
 
 
+# Class 11 
+
 # Property Valuation Part 1
 
 p.25
@@ -1351,7 +1363,9 @@ Loss of value can occur due to any of the following:
 
 
 
-# Class 12 Property Valuation Part 2 (need review)
+# Class 12 
+
+# Property Valuation Part 2 (need review)
 
 #### empty
 
@@ -1581,7 +1595,9 @@ Mortgage Bankers
 * Offer products only from their bank
 * No broker fee
 
-# Class 14 Real Estate Financing
+# Class 14 
+
+# Real Estate Financing
 
 Study guide p.69   Feb 23
 
@@ -1795,7 +1811,9 @@ jane@rightkeymortgage.com
 
 
 
-# Class 15 Government Financing Programs
+# Class 15 
+
+# Government Financing Programs
 
 Study Guide p.74
 
@@ -1950,7 +1968,9 @@ Study Guide p.74
 
 
 
-# Class16 Government Financing Regulations (后半节课)
+# Class16 
+
+# Government Financing Regulations (后半节课)
 
 Government Financint 
 
@@ -2021,7 +2041,9 @@ After 39 years, owner sells for $220,000
 
   > You must have lived in the property for 2 of the last 5 years
 
-# Class 17 Consumer Protection Laws
+# Class 17 
+
+# Consumer Protection Laws
 
 ## Outline
 
@@ -2100,11 +2122,33 @@ No
 
 ## Hazardous Materials
 
+* A 21E Certificate (see the Property Right Limitations section on Environmental Limitations) is used in Massachusetts to certify that real property is free of contamination. 21E certificates are most often used for commercial properties, but may also be used for residential real estate. Hazards may also be tested for if the seller agrees to the testing.
+* Brownfields = lands that have been previously used for commercial
+* Greenfields=land have not been contaminated
+* MA DEP
+  * Provides liability relief & financial incentives 
 
+* **Title V** – requires septic system to pass inspection within 2 years prior to sale (or 3 years if pumped every year) or 6 months after sale
 
+#### Smoke detectors
 
+* Prior 1975 require smoke detector certificate signed by local fire chief
 
-# Class 18  Real Estate Agency 
+* | X-1975        | 1975-1997      | 1997-Now                    |
+  | ------------- | -------------- | --------------------------- |
+  | battery power | interconnected | interconnected with battery |
+
+* In MA, as of December 2016, all battery operate detectors must be 10yr+ photoelectric sealed 
+
+#### Carbon Monoxide 
+
+* As of Mar 31st 2006, MA homes must have carbon monoxide detectors if 
+  * The home has fuel-burning equipment that produces carbon monoxide
+  * Indoor parking is adjacent to the living areas of the home
+
+# Class 18  
+
+# Real Estate Agency 
 
 p.57 Jan 26
 
@@ -2180,7 +2224,9 @@ O.L.D. C.A.R.
   * In MA, it is strictly forbidden to misuse or misrepresent the contents on the registry (**NEVER Represent the contents on the registry**)
   * Direct clients to the registry so they can do the research for the  themselves
 
-# Class 19  Real Estate Agency in Practice
+# Class 19  
+
+# Real Estate Agency in Practice
 
 p.57 Feb 1
 
@@ -2227,7 +2273,9 @@ p.57 Feb 1
   * Corporations
   * Individual
 
-# Class 20 Introduction to Fair Housing
+# Class 20 
+
+# Introduction to Fair Housing
 
 Feb 18 Study P.62
 
@@ -2284,7 +2332,9 @@ Feb 18 Study P.62
 
 
 
-# Class 21 Fair Housing Law
+# Class 21 
+
+# Fair Housing Law
 
 feb 18
 
@@ -2410,7 +2460,9 @@ Both Federal and State exemptions include:
 
 
 
-# Class 22 Fair Housing in Practice
+# Class 22 
+
+# Fair Housing in Practice
 
 ## Federally Protected Classes
 
@@ -2544,7 +2596,9 @@ which is any solicitation of property for sale or lease on the grounds of an all
 
 
 
-# Class 24 The Massachusetts Real Estate Test
+# Class 24 
+
+# The Massachusetts Real Estate Test
 
 
 
