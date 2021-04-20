@@ -2122,13 +2122,25 @@ No
 
 ## Hazardous Materials
 
-* A 21E Certificate (see the Property Right Limitations section on Environmental Limitations) is used in Massachusetts to certify that real property is free of contamination. 21E certificates are most often used for commercial properties, but may also be used for residential real estate. Hazards may also be tested for if the seller agrees to the testing.
+* A 21E Certificate (see the Property Right Limitations section on Environmental Limitations) is used in Massachusetts to certify that real property is free of contamination. 
+
+  > 21E certificates are most often used for commercial properties, but may also be used for residential real estate. Hazards may also be tested for if the seller agrees to the testing.
+
 * Brownfields = lands that have been previously used for commercial
+
 * Greenfields=land have not been contaminated
+
 * MA DEP
+
   * Provides liability relief & financial incentives 
 
 * **Title V** – requires septic system to pass inspection within 2 years prior to sale (or 3 years if pumped every year) or 6 months after sale
+
+#### Lead Paint
+
+![image-20210419155850554](image/image-20210419155850554.png)
+
+![image-20210419155951102](image/image-20210419155951102.png)
 
 #### Smoke detectors
 
@@ -2145,6 +2157,10 @@ No
 * As of Mar 31st 2006, MA homes must have carbon monoxide detectors if 
   * The home has fuel-burning equipment that produces carbon monoxide
   * Indoor parking is adjacent to the living areas of the home
+
+## Construction warranties
+
+
 
 # Class 18  
 
