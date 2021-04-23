@@ -15,9 +15,9 @@ The notes are from the "40 hours of real estate education". All the classes are 
 > * **40 hours of real estate education**
 > * Successful completion of licensing exams
 
-[The Basics](#class-01-the-basis)
 
-## Index
+
+# Table of Contents
 
 1. [The Basics](#class-01-the-basis)
 2.  [Property Rights](#class-02-property-rights)
@@ -86,7 +86,9 @@ general liability insurance
 	* coverage for personal or property damage that might occur at the office/showing
 
 * Prof Liability Insurance
-  * errors & omissions or E&O
+  * errors and omissions or E&O
+  * Errors and ommissions insurance is liability insurance that will cover mistakes made by a broker or their agents. 
+  * E&O will not cover fair housing or consumer protection lawsuits. General liability insurance would cover personal property being broken
 
 
 
@@ -244,17 +246,22 @@ Rules of Capture
    * own property absolutely
 2. Life Estates
    * fee simple ownership for your life
-   * pass away, lose property
-   * Habendum Clause (物权转让条款)
+   * pass away, lose property 
+     * **Reversion**
+     * **Pur Autre Vie**
+   * Habendum *Clause* 
+     * remiander
 3. Fee Simple Defeasible
    *  something can cause you to lose ownership
       * e.g. deed resctriction
    *  Determinable = auto
    *  Subject to a condition subsequent = lawsuit
 
+![image-20210421151241526](image/image-20210421151241526.png)
+
 ## Severalty
 
-1 person
+**1 person**
 
 A freehold interest (ownership) held by only one person. Its root is "severed"; ownership in severalty is the ownership of real estate severed from any co-owners.
 
@@ -297,7 +304,7 @@ Joint ownership of common areas, and fee simple ownership of units
 * Master Deed (condo building)
 * Unit deed
 * Condo Association
-  * Declaration of Trust
+  * Declaration of **Trust**
   * Bylaws(内部章程) of the Association
 * Condo Fees
   * Super-priority lien
@@ -482,8 +489,8 @@ Long Island Sound) from the harmful effects of real estate development. It limit
 
 ### Environmental Vocabulary
 
-* Accretion – An increase of property by the gradual, natural action of wind or water (e.g. the slow increase of a beach).
-* Aeolian Soil – Soil deposited by wind, such as sand dunes or silt.
+* Accretion – An increase of property by the gradual, natural action of **wind or water** (e.g. the slow increase of a beach).
+* Aeolian Soil – Soil deposited by **wind**, such as sand dunes or silt.
 * Alluvion – An increase of land area along a shore by deposited alluvium or by the recession of water (e.g. the slow increase of a riverbank).
 * Alluvium – Any clay, silt, sand, gravel, or similar detrital material (sand, rocks, gravel, etc.) deposited by running water.
 * Avulsion – The sudden separation of land from one property or its attachment to another, usually caused by flooding, a storm, or a change in the course of a river.
@@ -540,7 +547,7 @@ The intrusion of an improvement onto a neighboring property (e.g. a misaligned f
 
 
 
-# Class 6 
+# Class 06 
 
 # Transfer of Property Part 1
 
@@ -689,7 +696,7 @@ An example Lot and Block survey might read:
 
 * Grantor accepts all liability and offers extended warranties
 
-#### Special Warranty Deed
+#### Special Warranty Deed(limited warranty deed)
 
 * Grantor is only liable for any title claims that originated during the ownership
 * Grantor promises they did not cause any title issues
@@ -805,6 +812,7 @@ A property sold for $505,100, how much stamps?
 
 * If the deceased passed testate (with will)
   * Executor is named and carries out last wished
+  * The executor devises (transfers) real property to the devisees (heirs receiving real property), and bequeaths (transfers) the personal property (the bequest or legacy) to the legatees (heirs receiving personal property).
 * If the deceased passes intestate, (without will)
   * Admin is appointed by court
   * Laws of descent and distribution will govern who receives the property
@@ -940,7 +948,7 @@ can't be enforced if the court deems it to be unfair or impossible
   * Any part of the contract that is illegal will be voided, but the rest will remain in effect
   * Severs the voidable part
 * Contingency Clause
-  * Makes the contract contingent on something happening (e.g. the buyer receiving financing)
+  * Makes the contract contingent/RELY ON on something happening (e.g. the buyer receiving financing)
     * If it does not happen, the contract is typically voided
 
 ## Quiz:
@@ -1549,9 +1557,13 @@ Mortgage: provides piece of property as collateral for the loan
 
 So who holds title?
 
-**Lien Theory State** (FL NY ME RI)
+**Lien Theory State** (FL NY ME RI):
 
-**Title Theory State** (MA)
+* borrower holds legal title of a property that is financed
+
+**Title Theory State** (MA):
+
+* a state where the bank holds legal title to mortgaged property, and the borrower holds equitable title
 
 ## Mortgage (p.67)
 
@@ -2020,7 +2032,7 @@ After 39 years, owner sells for $220,000
   * Defer: transfer to a later date (not eliminate)
 * Must reinvest the proceeds from the sale into another piece of real estate
 * Must happen within 6 months of the sale
-* Unreplaced property value or reduced mortgage debt (“boot”) is taxable
+* Unreplaced property value or reduced mortgage debt (“**boot**”) is taxable
 
 ## Residential Taxes
 
@@ -2135,6 +2147,8 @@ No
   * Provides liability relief & financial incentives 
 
 * **Title V** – requires septic system to pass inspection within 2 years prior to sale (or 3 years if pumped every year) or 6 months after sale
+  *  A Board of Health member, with proper training, may inspect a septic system under Title V.
+  * When a septic system fails its Title V inspection, as long as it is disclosed, the buyer and seller negotiate who will bring it into compliance. The seller can take care of it before the sale and then the Title V certificate will be obtained by closing, or the buyer can choose to take care of it as long as it is brought into compliance within 6 months after the sale. In this second case, the Title V certificate would be obtained after the closing.
 
 #### Lead Paint
 
@@ -2157,6 +2171,8 @@ No
 * As of Mar 31st 2006, MA homes must have carbon monoxide detectors if 
   * The home has fuel-burning equipment that produces carbon monoxide
   * Indoor parking is adjacent to the living areas of the home
+  * CarbonMonoxide detectors installed on every level. The law applies to ALL homes, not just those that are being sold. 
+  * New home construction or renovations must have hard wired detectors; older homes may be brought into compliance with battery-operated detectors.
 
 ## Construction warranties
 
