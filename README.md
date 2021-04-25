@@ -491,7 +491,7 @@ Long Island Sound) from the harmful effects of real estate development. It limit
 
 * Accretion – An increase of property by the gradual, natural action of **wind or water** (e.g. the slow increase of a beach).
 * Aeolian Soil – Soil deposited by **wind**, such as sand dunes or silt.
-* Alluvion – An increase of land area along a shore by deposited alluvium or by the recession of water (e.g. the slow increase of a riverbank).
+* Alluvion – An increase of land area along a shore by **deposited alluvium** or by the **recession of water** (e.g. the slow increase of a riverbank).
 * Alluvium – Any clay, silt, sand, gravel, or similar detrital material (sand, rocks, gravel, etc.) deposited by running water.
 * Avulsion – The sudden separation of land from one property or its attachment to another, usually caused by flooding, a storm, or a change in the course of a river.
 * Erosion – The process by which the surface of the earth is gradually worn away by natural actions (e.g. water, wind,etc.).
@@ -1572,8 +1572,7 @@ So who holds title?
 * Defeasance Clause: automatically relives the collateral of the bank claim when the loan is paid bank
 * Due on Sale Clause: entire payment
 
-> **Due on sale clause** – also known as alienation or assumption clause; permits lender to accelerate maturity date of the loan in the
-> event of a title transfer; prevents transfer of mortgage to a third party
+> **Due on sale clause** – also known as alienation or assumption clause; permits lender to accelerate maturity date of the loan in the event of a title transfer; prevents transfer of mortgage to a third party
 
 * Garn-St. Germain Act: Due on sale clause can't triggered on death, devising property, leasing, marriage, divorce or transfer to a family trust
 * Subordination Clause: 
